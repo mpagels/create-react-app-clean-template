@@ -1,3 +1,7 @@
+# Clean starter template
+
+This is a clean starter template without all the files I delete anyway when I start a new project.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
